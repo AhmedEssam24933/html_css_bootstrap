@@ -1,0 +1,35 @@
+p {
+    color: red
+}
+
+.special {
+    color: green;
+    background-color: brown;
+}
+
+div {
+    background-image: url("Russell.png");
+    background-repeat: no-repeat;
+    border: 10px solid red;
+    letter-spacing: 4px;
+}
+
+.one,
+.two,
+.three{
+    padding: 20px;
+    margin: 15px;
+    background-color: blue;
+}
+
+.html1{
+    border: 2x solid red;
+    text-align: center;
+    padding: 10px;
+}
+
+.html2{
+    border: inherit;
+    padding: inherit;
+    font-weight: bold;
+}

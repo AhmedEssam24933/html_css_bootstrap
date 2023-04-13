@@ -1,0 +1,11 @@
+getSelection to prevent user to make a copy 
+setInterval to show a message every 5 sec an so on 
+clearScroll
+setTimoout to delay .innerHTML.jscode....
+getElementById("elementif")
+object History = go , forward, back
+Events = screenX,Y, clienX, pageX, offsetX
+mouseEvents
+preverntDefault = to prevent user to enter specific button like space " "
+stopPropagation = to prevent event of parent
+eventHandling by js only = addEventListener / removeEventListener

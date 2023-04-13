@@ -1,0 +1,15 @@
+if u don't know number of rows , cols use row-cols-4 = 4 means row contains 4 cols
+use "w-100" for a new line 
+to leave a space before a specific col use "offset"
+use gutters to increase or reduce padding
+to make element invisible in bootstrap give it id and add onclick = "fun_name"
+then write function {document.quertselector("#id").classList.toggle("invisible)}
+to make responsive img use imf-fluid
+to make responsive table bootstrap uses scroll 
+install Bootstrap 5 Quick Snippets in v s code
+badge هو عبارة عن الرقم المعبر عن عدد الرسائل في فيسبوك وهكذا
+card
+modal = when u open screen u see a box with some text like close and ok and so on
+tooltip and popover = to show a message when u are close to a button
+to put button in right use ms-auto in ul
+for noti use toast

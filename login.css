@@ -1,0 +1,47 @@
+.parent{
+    width: 40%;
+    height: 60%;
+    background-color:rgb(255, 255,255);
+    position: absolute;
+    bottom: 20%;
+    right: 30%;
+}
+
+body {
+    background-color:rgba(159,157,168,255);
+}
+
+.login{
+    width: 80%;
+    height: 15%;
+    position: absolute;
+    background-color:rgba(60,169,226,255);
+    bottom: 15%;
+    right: 10%;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container1 {
+    width: 80%;
+    height: 15%;
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    color: white;
+    font-size: 20px;
+    text-indent: 5px;
+}
+
+.container2 {
+    width: 80%;
+    height: 15%;
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    color: white;
+    font-size: 20px;
+    text-indent: 5px;
+}
+

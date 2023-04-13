@@ -1,0 +1,45 @@
+.class name
+#idname
+background-position to change image position
+use negative in margin
+inline and block - display to convert
+display none to hide element
+display and visibility
+Nested "div p"
+min and max width and height
+width: fit-content to make space takes text only  
+overflow(x or y):auto; very important 
+direction; rtl;
+text-decoration: none; to delete line underline
+line-height: 1.6 or 1.7 ; suitable line-height
+"word-break" use in break words of links
+"text-overflow" to add ... in the end of words
+web safe fonts
+default-font0size = 16 px
+em = time / rem = root time that inherite from html 
+video 24 min 6 = view port width = very imp
+26 - Mouse Cursor
+use opacity لتغيير الشفافية للخلفية بالنص بكل شيء في الصفحة
+position: fixed or sticky ; still exist in specific position in page with scroll
+sticky use it in nav bar
+z-index to put element over another element
+pseudo
+border-radius to change shape to circle or any shape
+box shadow
+Box Sizing
+attr selector
+before and after should be applied on elem with content
+float right and clear left 
+relative from it position, abs from it nearest element not static
+overflow when an img is bigger then div
+meta viewport , intial-scale=1, width=device-width
+display:flex
+justify-content = hori / align-items = ver / align-content = ver but on more than row
+flex-grow and shrink = to make element bigger or smaller
+align-self to override on align
+box-sizing
+em relative to parent / rem absolute to page
+font-size: vmin, vmax 
+to make responsive img, put max-width: 100% and height: auto;
+media quieres to change css layout in different screens
+to use bootstrap u should put all elements in container or container-fluid
